@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="backgroundColorName">
+        <item >@string/red</item>
+        <item >@string/blue</item>
+        <item >@string/green</item>
+    </array>
+
+    <array name="backgroundColorCode">
+        <item>@string/red_code</item>
+        <item>@string/blue_code</item>
+        <item>@string/green_code</item>
+    </array>
+
+</resources>

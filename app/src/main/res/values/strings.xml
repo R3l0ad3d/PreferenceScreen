@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PreferanceScreen</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_background_color">background_color</string>
+
+    <!--color name-->
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+
+    <string name="red_code">#ff0000</string>
+    <string name="blue_code">#001eff</string>
+    <string name="green_code">#00ff2a</string>
+    <string name="pref_font_size">pref_font_size</string>
+</resources>
